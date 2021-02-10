@@ -5,9 +5,13 @@ I got this study material from
 ![Shaheryar Shaikh](https://github.com/shaheryarshaikh1011) 
 
 🌻 Contribute 🌻 :-
-✅ Aptitude 
+
+✅ Aptitude
+
 ✅ Reasoning
+
 ✅ Verbal 
+
 ✅ Coding
 
 👉 Add more study material to help students to clear the exam. 
