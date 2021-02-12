@@ -69,6 +69,8 @@ TCS Coding Question Topics 👨‍💻
 I got this study material from 
 ![Shaheryar Shaikh](https://github.com/shaheryarshaikh1011) 
 
+![Rachit Rastogi Youtube](https://www.youtube.com/channel/UCky03MonS3REdCXCvOfua2g)
+
 🌻 Contribute 🌻 :-
 
 ✅ Aptitude
