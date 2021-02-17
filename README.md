@@ -57,6 +57,29 @@ TCS Logical Verbal Ability Topics😎
     Error Correction
     Sentence Completion
 
+TCS Programming MCQ Topics 👨‍💻
+
+    Operators
+    Looping statements
+    Control statements
+    Arrays
+    Strings
+    Functions
+    Object Oriented Programming (OOPS)
+    Standard Template Libraries (STL)
+    Object Modeling
+    Compiler Design
+    Threading
+    Data Structures: Linked List, Stack, Queue, Trees and Graphs
+    Recursion
+    Pseudocoding
+    Algorithms
+    Basic Software Development Cycle
+    Collections
+    Coding:
+    Fundamentals of Programming - Conditional and looping statements, Arrays,
+    Strings.
+
 TCS Coding Question Topics 👨‍💻
 
     HCF,LCM,GCD
