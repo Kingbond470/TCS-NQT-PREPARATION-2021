@@ -109,3 +109,4 @@ I got this study material from
 👉 Add more study material to help students to clear the exam. 
 
 #LearnTogether
+PS: On 18/02/2021, TCS NQT 2021 Cognitive and Psychometric test was moderate level and it will a week of practice....you are good to go.
