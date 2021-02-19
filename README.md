@@ -98,9 +98,9 @@ TCS Coding Question Topics 👨‍💻
     Factorial using recursion
 
 I got this study material from 
-![Shaheryar Shaikh](https://github.com/shaheryarshaikh1011) 
+[Shaheryar Shaikh](https://github.com/shaheryarshaikh1011) 
 
-![Rachit Rastogi Youtube](https://www.youtube.com/channel/UCky03MonS3REdCXCvOfua2g)
+[Rachit Rastogi Youtube](https://www.youtube.com/channel/UCky03MonS3REdCXCvOfua2g)
 
 🌻 Contribute 🌻 :-
 
@@ -112,7 +112,7 @@ I got this study material from
 
 ✅ Coding
 
-![To HELP OTHERS](https://twitter.com/i/status/1357261161863946240)
+[To HELP OTHERS](https://twitter.com/i/status/1357261161863946240)
 
 👉 Add more study material to help students to clear the exam. 
 
