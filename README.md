@@ -58,7 +58,11 @@ TCS Logical Verbal Ability Topics😎
     Sentence Completion
 
 TCS Programming MCQ Topics 👨‍💻
-
+    
+    ![Programming Logic](https://prepinsta.com/tcs-nqt/placement-papers/programming-logic/)
+    ![Data Structure Basic](https://prepinsta.com/data-structures/)
+    ![Imporant Topics](https://docs.google.com/document/d/1xLoLGI6RHMEofvYa8EF8-uxJ5ePvmlMJbwBxA2AVcNI/edit)
+    ![STL and Vectors](https://docs.google.com/document/d/1GRYoUgWeNnM_Q7-nycCpHwxT5cjmAAAc5PjXvA0j2wE/edit)
     Operators
     Looping statements
     Control statements
