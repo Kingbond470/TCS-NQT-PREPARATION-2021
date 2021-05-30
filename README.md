@@ -120,7 +120,9 @@ I got this study material from
 
 PS: On 18/02/2021, TCS NQT 2021 Cognitive and Psychometric test was moderate level and it had taken week of practice to go through all concepts, logic which is mentioned above....you are good to go.
 
-![TCS NQT] (http://fresheropenings.com/wp-content/uploads/2020/09/TCS-NQT-2020.jpg)
+
+![TCSNQT](http://fresheropenings.com/wp-content/uploads/2020/09/TCS-NQT-2020.jpg)
+
 
 #GoodLuck
 
